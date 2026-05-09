@@ -1,0 +1,15 @@
+{
+  "cluster": "physics-native-ai-trainer",
+  "source_repo": "github.com/mlopeznxtaura/physics-native-ai-trainer",
+  "sim_repo": "github.com/mlopeznxtaura/sim25v3",
+  "algo": "ppo",
+  "n_envs": 4,
+  "total_iterations": 50,
+  "final_policy_loss": 0.0463,
+  "final_value_loss": 0.1188,
+  "final_entropy": 0.5406,
+  "total_reward": -181.7011,
+  "mean_reward_last20": -0.9088,
+  "total_successes": 0,
+  "success_rate": 0.0
+}
